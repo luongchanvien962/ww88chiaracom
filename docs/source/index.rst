@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+WW88 – Hàng Ngàn Trò Chơi Hấp Dẫn, Hỗ Trợ 24/7 và Ưu Đãi Đặc Biệt
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`WW88 <https://ww88chiara.com/>`_ là một trong những nhà cái hàng đầu tại Việt Nam và Châu Á, hoạt động từ năm 2013 với giấy phép từ Cagayan Economic Zone Authority (CEZA), được chính phủ Philippines giám sát. Ww88 nổi tiếng với các dịch vụ cá cược thể thao, casino online, slot game, và các trò chơi đặc biệt dành riêng cho người Việt. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện dễ sử dụng và tốc độ truy cập nhanh, Ww88 đảm bảo sự an toàn và bảo mật thông tin khách hàng. Được tài trợ bởi đội tuyển bóng đá Argentina, Ww88 không chỉ cung cấp hàng nghìn trò chơi hấp dẫn mà còn hỗ trợ người chơi 24/7.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: R14 Dương Thị Giang, Khu Phố 4, Quận 12, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0956311577. 
 
-.. toctree::
+Email: info@ww88chiara.com. 
 
-   usage
-   api
+Website: https://ww88chiara.com/ 
+
+#ww88 #nhacaiww88 #trangchuww88 #dangkyww88 #linkww88
